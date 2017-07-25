@@ -1,0 +1,15 @@
+{
+  "name": "smooth-products",
+  "homepage": "https://github.com/ensphere/Smoothproducts",
+  "authors": [
+    "kthornbloom",
+    "Luke Snowden"
+  ],
+  "description": "Image zoom plugin (fork of https://github.com/kthornbloom/Smoothproducts)",
+  "main": "js/smoothproducts.js",
+  "keywords": [
+    "smooth",
+    "products"
+  ],
+  "license": "MIT"
+}
